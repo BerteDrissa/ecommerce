@@ -1,0 +1,36 @@
+.image{
+	width: 50%;
+	float: left;
+	 
+	
+}
+.section{
+	/* display: inline; */
+	padding: 80px;
+	margin: 70px 70px 0 70px;
+	height: 500px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 40px -5px black;
+
+}
+.text{
+	float: right;
+	width: 50%;
+}
+.img{
+	width: 80%;
+}
+
+input{
+	padding: 20px;
+	width: 250px;
+	margin-top: 200px;
+	color: white;
+	font-size: 25px;
+	border-radius: 35px;
+	background: #2997ab;
+	box-shadow: 5px 5px 40px -5px black;
+	border: #2997ab;
+
+}
+
